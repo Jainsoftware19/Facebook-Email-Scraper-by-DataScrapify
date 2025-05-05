@@ -1,4 +1,6 @@
 ## Facebook Email Scraper – Extract Facebook Emails Instantly
+👉 [Try Facebook Email Scraper Now](https://www.datascrapify.com/product/Facebook-Email-Scraper)
+
 
 Need a powerful way to collect real, usable **Facebook emails** for lead generation or outreach? The **Facebook Email Scraper** by DataScrapify is your go-to tool for extracting emails from public Facebook profiles, pages, and groups quickly and accurately. Whether you're in sales, marketing, or research, this efficient **email scraper** gives you the data you need—fast.
 
